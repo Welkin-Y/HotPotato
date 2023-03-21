@@ -1,7 +1,5 @@
 #ifndef _NETWORK_FACTORY_H_
 #define _NETWORK_FACTORY_H_
-#include <string>
-using std::string;
 
 class NetworkFactory {
  public:
