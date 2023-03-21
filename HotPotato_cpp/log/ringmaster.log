@@ -1,0 +1,11 @@
+Potato Ringmaster
+Players = 5
+Hops = 100
+Player 0 is ready to play
+Player 1 is ready to play
+Player 2 is ready to play
+Player 3 is ready to play
+Player 4 is ready to play
+Ready to start the game, sending potato to player 1
+Trace of potato:
+1,2,3,4,0,1,0,4,3,2,1,0,4,3,2,1,2,3,4,0,1,2,3,4,0,1,0,4,3,2,1,2,3,4,0,1,2,3,4,0,1,0,4,3,2,1,2,3,4,0,1,0,4,3,2,1,0,4,3,2,1,2,3,4,0,1,2,3,4,0,1,2,3,4,0,1,2,3,4,0,1,0,4,3,2,1,0,4,3,2,1,0,4,3,2,1,0,4,3,2
